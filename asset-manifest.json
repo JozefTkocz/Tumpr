@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tumpr/static/css/main.351fb370.css",
-    "main.js": "/tumpr/static/js/main.46b31e63.js",
-    "static/js/787.6b59241e.chunk.js": "/tumpr/static/js/787.6b59241e.chunk.js",
-    "service-worker.js": "/tumpr/service-worker.js",
-    "index.html": "/tumpr/index.html",
-    "main.351fb370.css.map": "/tumpr/static/css/main.351fb370.css.map",
-    "main.46b31e63.js.map": "/tumpr/static/js/main.46b31e63.js.map",
-    "787.6b59241e.chunk.js.map": "/tumpr/static/js/787.6b59241e.chunk.js.map"
+    "main.css": "./static/css/main.351fb370.css",
+    "main.js": "./static/js/main.d40c1223.js",
+    "static/js/787.6b59241e.chunk.js": "./static/js/787.6b59241e.chunk.js",
+    "service-worker.js": "./service-worker.js",
+    "index.html": "./index.html",
+    "main.351fb370.css.map": "./static/css/main.351fb370.css.map",
+    "main.d40c1223.js.map": "./static/js/main.d40c1223.js.map",
+    "787.6b59241e.chunk.js.map": "./static/js/787.6b59241e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.351fb370.css",
-    "static/js/main.46b31e63.js"
+    "static/js/main.d40c1223.js"
   ]
 }
